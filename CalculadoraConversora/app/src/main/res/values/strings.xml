@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">CalculadoraConversora</string>
+    <string name="uno">1</string>
+    <string name="dos">2</string>
+    <string name="tres">3</string>
+    <string name="cuatro">4</string>
+    <string name="cinco">5</string>
+    <string name="seis">6</string>
+    <string name="siete">7</string>
+    <string name="ocho">8</string>
+    <string name="nueve">9</string>
+    <string name="cero">0</string>
+    <string name="borrar">AC</string>
+    <string name="igual">=</string>
+    <string name="mas">+</string>
+    <string name="menos">-</string>
+    <string name="multi">*</string>
+    <string name="div">/</string>
+    <string name="binario">bin </string>
+    <string name="octal">oct </string>
+    <string name="hexa">Hex</string>
+    <string name="dec">Dec</string>
+    <string name="A">A </string>
+    <string name="B">B</string>
+    <string name="C">C </string>
+    <string name="D">D</string>
+    <string name="E">E </string>
+    <string name="F">F</string>
+    <String name="opera"> </String>
+
+</resources>
